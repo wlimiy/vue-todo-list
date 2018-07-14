@@ -1,4 +1,4 @@
-![项目图片](https://github.com/wlimiy/vue-todo-list.git/raw/master/src/assets/pic.png)
+![项目图片](https://github.com/wlimiy/vue-todo-list.git/blob/master/src/assets/images/pic.png)
 # vue-todos
 
 > A Vue.js project
